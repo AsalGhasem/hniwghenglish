@@ -72,12 +72,5 @@ h2 {
 html, body {
   margin: 0;
   padding: 20px;
-  overflow-x: hidden;
   border: 5px solid black;
 }
-
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-} 
